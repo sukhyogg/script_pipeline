@@ -1,1 +1,1 @@
-echo "Quality Checked Passed";
+echo "Quality Checked Passed"
