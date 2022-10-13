@@ -1,1 +1,1 @@
-echo "Build Successfully";
+echo "Build Successfully"
