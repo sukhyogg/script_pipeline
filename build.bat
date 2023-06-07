@@ -1,1 +1,1 @@
-ecrho "Build Successfully"
+echo "Build Successfully"
